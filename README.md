@@ -1,5 +1,14 @@
-# LeetCode
+# LeetCode Solutions
 
-This repository is intended to store the solutions for programming problems from LeetCode. These solutions are preferrably in C++ and some in Python.
+This repository is intended to store the solutions for programming problems from LeetCode. These solutions are preferably in C++ and Python. The summaries of some specific questions will be posted as below.
 
-This repository begins from summer of 2017. 
+
+| #     | title                 | difficulty | complexity   | link |
+| --    | --                    | --         | --           | --   |
+| 454   | 4SumII                | Medium     |       | [py]() |
+| 258   | Add Digits            | Easy       |       | [py]() |
+| 415   | Add Strings           | Easy       |       | [py]() |
+| 2     | Add Two Numbers       | Medium     |       | [py]() |
+| 413   | Arithmetic Slices     | Medium     |       | [py]() |
+| 441   | Arranging Coins       | Easy       |       | [py]() |
+
