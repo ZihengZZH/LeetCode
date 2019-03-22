@@ -1,0 +1,6 @@
+# vs code
+.vscode
+
+# g++ compile
+/build
+
