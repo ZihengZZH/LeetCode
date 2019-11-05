@@ -216,7 +216,7 @@ if __name__ == '__main__':
 
     print("height of the B-Tree %d" % tree.height())
 
-    print("child nodes")
+    print("leave nodes")
     tree.leaves()
     print()
 
