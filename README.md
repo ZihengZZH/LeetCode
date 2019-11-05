@@ -35,6 +35,9 @@
 
 | #     | title                                 | difficulty | complexity   | link   |
 | --    | --                                    | --         | --           | --     |
+| 94    | Binary Tree Inorder Traversal         | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/BinaryTreeInorderTraversal.py) | 
+| 144   | Binary Tree Preorder Traversal        | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/BinaryTreePreorderTraversal.py) |
+| 145   | Binary Tree Postorder Traversal       | Hard       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/BinaryTreePostorderTraversal.py) |
 
 ## 04-Stack
 
