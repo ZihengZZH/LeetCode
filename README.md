@@ -21,6 +21,7 @@
 | #     | title                                 | difficulty | complexity   | link   |
 | --    | --                                    | --         | --           | --     |
 | 11    | Container With Most Water             | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/ContainerMostWater.py) [cpp](https://github.com/ZihengZZH/LeetCode/blob/master/cpp/ContainerMostWater.cpp) |
+| 1     | Two Sum                               | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/TwoSum.py) |
 | 15    | 3Sum                                  | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/3Sum.py) [cpp](https://github.com/ZihengZZH/LeetCode/blob/master/cpp/3Sum.cpp) |
 | 646   | Maximum Length of Pair Chain          | Medium     |              | [py]() |
 
@@ -107,6 +108,7 @@
 
 | #     | title                                 | difficulty | complexity   | link   |
 | --    | --                                    | --         | --           | --     |
+| 77    | Combinations                          | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/Combinations.py) |
 
 ## 15-Sort
 

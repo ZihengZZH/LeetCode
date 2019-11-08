@@ -20,7 +20,7 @@ class Solution(object):
             return 0
         maxLen = 1
         start = 0
-        for i in xrange(len(s)):
+        for i in range(len(s)):
             if i-maxLen >= 1 and s[i-maxLen-1:i+1] == s[i-maxLen-1:i+1][::-1]:
                 start = i-maxLen-1
                 maxLen += 2
@@ -33,4 +33,4 @@ class Solution(object):
 strings = ["asdfdsdfdasdghds","asdewqqwezx","q9w8rewdjiv9e","qwe123ewq432","85258525852"]
 solu = Solution()
 for string in strings:
-    print "The longest palindrome of", string, "is", solu.longestPalindrome(string)
+    print("The longest palindrome of", string, "is", solu.longestPalindrome(string))
