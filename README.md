@@ -41,7 +41,8 @@
 | 144   | Binary Tree Preorder Traversal        | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/BinaryTreePreorderTraversal.py) |
 | 145   | Binary Tree Postorder Traversal       | Hard       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/BinaryTreePostorderTraversal.py) |
 | 257   | Binary Tree Paths                     | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/BinaryTreePaths.py) |
-| 101   | Symmetric Tree                        | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/SymmetricTree.py)
+| 101   | Symmetric Tree                        | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/SymmetricTree.py) | 
+| 96    | Unique Binary Search Trees            | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/UniqueBinarySearchTrees.py) |
 
 ## 04-Stack
 
@@ -58,6 +59,7 @@
 
 | #     | title                                 | difficulty | complexity   | link   |
 | --    | --                                    | --         | --           | --     |
+| 371   | Sum of Two Integers                   | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/SumTwoIntegers.py)
 
 ## 07-Dynamic-Programming
 
@@ -66,11 +68,12 @@
 | 62    | Unique Paths                          | Medium     |              | [py]() |
 | 338   | Counting Bits                         | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/CountingBits.py) |
 | 1025  | Divisor Game                          | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/DivisorGame.py) |
-| 413   | Arithmetic Slices                     | Medium     |              | [py]() |
-| 712   | Min-ASCII Delete Sum for Two Strings  | Medium     |              | [py]() |
-| 121   | Best Time to Buy and Sell Stock       | Easy       |              | [py]() |
-| 746   | Min Cost Climbing Stairs              | Easy       |              | [py]() |
-| 357   | Count Numbers with Unique Digits      | Medium     |              | [py]() |
+| 413   | Arithmetic Slices                     | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/ArithmeticSlices.py) |
+| 712   | Min-ASCII Delete Sum for Two Strings  | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/Min-ASCII-DeleteSumforTwoStrings.py) |
+| 121   | Best Time to Buy and Sell Stock       | Easy       |              | [cpp](https://github.com/ZihengZZH/LeetCode/blob/master/cpp/BestTimetoBuyandSellStock.cpp) |
+| 746   | Min Cost Climbing Stairs              | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/MinCostClimbingStairs.py) |
+| 357   | Count Numbers with Unique Digits      | Medium     |              | [cpp](https://github.com/ZihengZZH/LeetCode/blob/master/cpp/CountUniqueDigits.cpp) |
+| 96    | Unique Binary Search Trees            | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/UniqueBinarySearchTrees.py) |
 
 ## 08-Depth-First-Search
 

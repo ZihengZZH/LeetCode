@@ -12,6 +12,7 @@ return 5.
 
 '''
 
+
 def lengthOfLastWord(s):
 
     s = s[::-1]
@@ -24,6 +25,7 @@ def lengthOfLastWord(s):
 
 
 def online(s):
+    # pointer
     length = 0
     tail = len(s)-1
     while tail >= 0 and s[tail] == ' ':
@@ -32,7 +34,6 @@ def online(s):
         length+=1
         tail-=1
     return length
-    
 
 
 if __name__ == "__main__":
@@ -45,6 +46,6 @@ if __name__ == "__main__":
 
     for j in input_strs:
         res = lengthOfLastWord(j)
-        print "Answer to",j, "is",res
+        print("Answer to",j,"is",res)
         res = online(j)
-        print "Answer to",j, "is",res
+        print("Answer to",j,"is",res)

@@ -33,7 +33,8 @@ class Solution(object):
             i += 1
         return res
 
+
 num = [1,2,3]
 solu = Solution()
 result = solu.subsets(num)
-print "The result is", result
+print("The result is", result)
