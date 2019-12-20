@@ -24,6 +24,7 @@
 | 1     | Two Sum                               | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/TwoSum.py) |
 | 15    | 3Sum                                  | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/3Sum.py) [cpp](https://github.com/ZihengZZH/LeetCode/blob/master/cpp/3Sum.cpp) |
 | 646   | Maximum Length of Pair Chain          | Medium     |              | [py]() |
+| 1051  | Height Checker                        | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/HeightChecker.py)
 
 ## 02-String
 
