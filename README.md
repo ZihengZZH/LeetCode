@@ -24,7 +24,8 @@
 | 1     | Two Sum                               | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/TwoSum.py) |
 | 15    | 3Sum                                  | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/3Sum.py) [cpp](https://github.com/ZihengZZH/LeetCode/blob/master/cpp/3Sum.cpp) |
 | 646   | Maximum Length of Pair Chain          | Medium     |              | [py]() |
-| 1051  | Height Checker                        | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/HeightChecker.py)
+| 1051  | Height Checker                        | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/HeightChecker.py) |
+| 697   | Degree of an Array                    | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/DegreeofArray.py) |
 
 ## 02-String
 
@@ -32,7 +33,7 @@
 | --    | --                                    | --         | --           | --     |
 | 833   | Find And Replace in String            | Medium     |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/FindAndReplaceinString.py) | 
 | 1108  | Defanging an IP Address               | Easy       | O(n)         | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/DefangingIPAddress.py) |
-| 917   | Reverse Only Letters                  | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/ReverseOnlyLetters.py)
+| 917   | Reverse Only Letters                  | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/ReverseOnlyLetters.py) |
 
 ## 03-Tree
 
@@ -61,7 +62,7 @@
 
 | #     | title                                 | difficulty | complexity   | link   |
 | --    | --                                    | --         | --           | --     |
-| 371   | Sum of Two Integers                   | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/SumTwoIntegers.py)
+| 371   | Sum of Two Integers                   | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/SumTwoIntegers.py) |
 
 ## 07-Dynamic-Programming
 
@@ -87,6 +88,7 @@
 
 | #     | title                                 | difficulty | complexity   | link   |
 | --    | --                                    | --         | --           | --     |
+| 733   | Flood Fill                            | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/FloodFill.py) |
 
 ## 10-Hash-Table
 
