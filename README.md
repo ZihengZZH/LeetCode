@@ -26,6 +26,7 @@
 | 646   | Maximum Length of Pair Chain          | Medium     |              | [py]() |
 | 1051  | Height Checker                        | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/HeightChecker.py) |
 | 697   | Degree of an Array                    | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/DegreeofArray.py) |
+| 1013  | Partition Array Into Three Parts With Equal Sum | Easy |          | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/PartitionArrayIntoThreePartsWithEqualSum.py) |
 
 ## 02-String
 
@@ -63,6 +64,7 @@
 | #     | title                                 | difficulty | complexity   | link   |
 | --    | --                                    | --         | --           | --     |
 | 371   | Sum of Two Integers                   | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/SumTwoIntegers.py) |
+| 812   | Largest Triangle Area                 | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/LargestTriangleArea.py) |
 
 ## 07-Dynamic-Programming
 
