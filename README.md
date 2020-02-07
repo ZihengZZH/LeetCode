@@ -96,6 +96,7 @@
 
 | #     | title                                 | difficulty | complexity   | link   |
 | --    | --                                    | --         | --           | --     |
+| 748   | Shortest Completing Word              | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/ShortestCompletingWord.py) |
 
 ## 11-Greedy
 
