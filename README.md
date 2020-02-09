@@ -102,6 +102,7 @@
 
 | #     | title                                 | difficulty | complexity   | link   |
 | --    | --                                    | --         | --           | --     |
+| 122   | Best Time to Buy and Sell Stock II    | Easy       |              | [py](https://github.com/ZihengZZH/LeetCode/blob/master/py/BestTimeBuySellStockII.py) |
 
 ## 12-Binary-Search
 
