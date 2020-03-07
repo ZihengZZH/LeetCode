@@ -48,3 +48,12 @@ if __name__ == "__main__":
     results = get_results(points)
     for res in results:
         print("%d %d" % (res[0], res[1]))
+
+
+'''
+similar thinking as ContainerMostWater
+
+|   ContainerMostWater              |   this one                    |
+|   max(AREA = HEIGHT*WIDTH)        |   max(XX, YY)                 |
+|   keep WIDTH starting from max    |   keep XX starting from max   |
+'''
